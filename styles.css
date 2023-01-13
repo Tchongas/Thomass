@@ -254,16 +254,24 @@ h1 {
 }
  
 .linkedin:hover  {
+	text-shadow: 2px 2px #ffffff;
 	color: #7192da;
+	
 }
 .twitter:hover {
+	text-shadow: 2px 2px #ffffff;
 	color: #85caff;
+	
 }
 .github:hover {
+	text-shadow: 2px 2px #ffffff;
 	color: #c4c4c4;
+	
 }
 .instagram:hover {
+	text-shadow: 2px 2px #ffffff;
 	color: #f1627c;
+	
 }
 
 
