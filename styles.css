@@ -258,13 +258,14 @@
 .main-title {
 	margin-top: 100px;
 	z-index: 1;
+	font-size: 2.3vh;
 	
 }
 
 
 
  .title {
-	 font-size: 1.3rem;
+	 
 	 z-index: 1;
 	 font-weight: bold;
 	 line-height: 1.2;
@@ -381,7 +382,7 @@ h2{
 	font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
 	z-index: 1;
-	font-size: 1.5rem;
+	font-size: 3.5vh;
 	line-height: 1.35;
 
 }
@@ -394,7 +395,7 @@ h2{
   	hyphens: auto;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
-	font-size: 1.3rem;
+	font-size: 3.3vh;
 	line-height: 1.35;
 	
 }
@@ -649,10 +650,25 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 #be0023, 0.005em 0.005em 0 #be0023, 0.01em 0.01em 0 #ce0000, 0.015em 0.015em #ce0000, 0.02em 0.02em 0 #ce0000, 0.025em 0.025em 0 #ce0000, 0.03em 0.03em 0 #ce0000, 0.035em 0.035em 0 #ce0000;
 }
 
+.hello:active:nth-child(1) {
+
+
+	text-decoration: underline ;
+
+	text-shadow: -0.0075em 0.0075em 0 #be0023, 0.005em 0.005em 0 #be0023, 0.01em 0.01em 0 #ce0000, 0.015em 0.015em #ce0000, 0.02em 0.02em 0 #ce0000, 0.025em 0.025em 0 #ce0000, 0.03em 0.03em 0 #ce0000, 0.035em 0.035em 0 #ce0000;
+}
+
 .hello:hover:nth-child(2) {
 
 	color: #ff800a;
 	text-shadow: -0.0075em 0.0075em 0 #ff800a, 0.005em 0.005em 0 #ff800a, 0.01em 0.01em 0 #8a4300, 0.015em 0.015em #8a4300, 0.02em 0.02em 0 #8a4300, 0.025em 0.025em 0 #8a4300, 0.03em 0.03em 0 #8a4300, 0.035em 0.035em 0 #8a4300;
+
+}
+
+.hello:active:nth-child(2) {
+
+
+	text-decoration: underline ;
 
 }
 
@@ -662,10 +678,23 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 rgb(255, 230, 0), 0.005em 0.005em 0 rgb(255, 230, 0), 0.01em 0.01em 0 rgb(133, 119, 0), 0.015em 0.015em rgb(133, 119, 0), 0.02em 0.02em 0 rgb(133, 119, 0), 0.025em 0.025em 0 rgb(133, 119, 0), 0.03em 0.03em 0 rgb(133, 119, 0), 0.035em 0.035em 0 rgb(133, 119, 0);
 }
 
+.hello:active:nth-child(3) {
+
+
+	text-decoration: underline ;
+
+}
+
 .hello:hover:nth-child(4) {
 
 	color: #12da00;
 	text-shadow: -0.0075em 0.0075em 0 #12da00, 0.005em 0.005em 0 #12da00, 0.01em 0.01em 0 #0b8000, 0.015em 0.015em #0b8000, 0.02em 0.02em 0 #0b8000, 0.025em 0.025em 0 #0b8000, 0.03em 0.03em 0 #0b8000, 0.035em 0.035em 0 #0b8000;
+}
+
+.hello:active:nth-child(4) {
+
+
+	text-decoration: underline ;
 }
 
 .hello:hover:nth-child(5) {
@@ -674,10 +703,26 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 #00c3ff, 0.005em 0.005em 0 #00c3ff, 0.01em 0.01em 0 #005f7c, 0.015em 0.015em #005f7c, 0.02em 0.02em 0 #005f7c, 0.025em 0.025em 0 #005f7c, 0.03em 0.03em 0 #005f7c, 0.035em 0.035em 0 #005f7c;
 }
 
+.hello:active:nth-child(5) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .hello:hover:nth-child(6) {
 
 	color: #2000d3;
 	text-shadow: -0.0075em 0.0075em 0 #2000d3, 0.005em 0.005em 0 #2000d3, 0.01em 0.01em 0 #120079, 0.015em 0.015em #120079, 0.02em 0.02em 0 #120079, 0.025em 0.025em 0 #120079, 0.03em 0.03em 0 #120079, 0.035em 0.035em 0 #120079;
+}
+
+.hello:active:nth-child(6) {
+
+
+	text-decoration: underline ;
+
+	
 }
 
 
@@ -691,11 +736,27 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 #be0023, 0.005em 0.005em 0 #be0023, 0.01em 0.01em 0 #ce0000, 0.015em 0.015em #ce0000, 0.02em 0.02em 0 #ce0000, 0.025em 0.025em 0 #ce0000, 0.03em 0.03em 0 #ce0000, 0.035em 0.035em 0 #ce0000;
 }
 
+.thomas:active:nth-child(1) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .thomas:hover:nth-child(2) {
 
 	color: #ff800a;
 	text-shadow: -0.0075em 0.0075em 0 #ff800a, 0.005em 0.005em 0 #ff800a, 0.01em 0.01em 0 #8a4300, 0.015em 0.015em #8a4300, 0.02em 0.02em 0 #8a4300, 0.025em 0.025em 0 #8a4300, 0.03em 0.03em 0 #8a4300, 0.035em 0.035em 0 #8a4300;
 
+}
+
+.thomas:active:nth-child(2) {
+
+
+	text-decoration: underline ;
+
+	
 }
 
 .thomas:hover:nth-child(3) {
@@ -704,10 +765,26 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 rgb(255, 230, 0), 0.005em 0.005em 0 rgb(255, 230, 0), 0.01em 0.01em 0 rgb(133, 119, 0), 0.015em 0.015em rgb(133, 119, 0), 0.02em 0.02em 0 rgb(133, 119, 0), 0.025em 0.025em 0 rgb(133, 119, 0), 0.03em 0.03em 0 rgb(133, 119, 0), 0.035em 0.035em 0 rgb(133, 119, 0);
 }
 
+.thomas:active:nth-child(3) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .thomas:hover:nth-child(4) {
 
 	color: #12da00;
 	text-shadow: -0.0075em 0.0075em 0 #12da00, 0.005em 0.005em 0 #12da00, 0.01em 0.01em 0 #0b8000, 0.015em 0.015em #0b8000, 0.02em 0.02em 0 #0b8000, 0.025em 0.025em 0 #0b8000, 0.03em 0.03em 0 #0b8000, 0.035em 0.035em 0 #0b8000;
+}
+
+.thomas:active:nth-child(4) {
+
+
+	text-decoration: underline ;
+
+	
 }
 
 .thomas:hover:nth-child(5) {
@@ -716,16 +793,40 @@ li:hover {
 	text-shadow: -0.0075em 0.0075em 0 #00c3ff, 0.005em 0.005em 0 #00c3ff, 0.01em 0.01em 0 #005f7c, 0.015em 0.015em #005f7c, 0.02em 0.02em 0 #005f7c, 0.025em 0.025em 0 #005f7c, 0.03em 0.03em 0 #005f7c, 0.035em 0.035em 0 #005f7c;
 }
 
+.thomas:active:nth-child(5) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .thomas:hover:nth-child(6) {
 
 	color: #2000d3;
 	text-shadow: -0.0075em 0.0075em 0 #2000d3, 0.005em 0.005em 0 #2000d3, 0.01em 0.01em 0 #120079, 0.015em 0.015em #120079, 0.02em 0.02em 0 #120079, 0.025em 0.025em 0 #120079, 0.03em 0.03em 0 #120079, 0.035em 0.035em 0 #120079;
 }
 
+.thomas:active:nth-child(6) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .thomas:hover:nth-child(7) {
 
 	color: #be0023;
 	text-shadow: -0.0075em 0.0075em 0 #be0023, 0.005em 0.005em 0 #be0023, 0.01em 0.01em 0 #ce0000, 0.015em 0.015em #ce0000, 0.02em 0.02em 0 #ce0000, 0.025em 0.025em 0 #ce0000, 0.03em 0.03em 0 #ce0000, 0.035em 0.035em 0 #ce0000;
+}
+
+.thomas:active:nth-child(7) {
+
+
+	text-decoration: underline ;
+
+	
 }
 
 .thomas:hover:nth-child(8) {
@@ -735,8 +836,69 @@ li:hover {
 
 }
 
+.thomas:active:nth-child(8) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
 .thomas:hover:nth-child(9) {
 
 	color: rgb(255, 230, 0);
 	text-shadow: -0.0075em 0.0075em 0 rgb(255, 230, 0), 0.005em 0.005em 0 rgb(255, 230, 0), 0.01em 0.01em 0 rgb(133, 119, 0), 0.015em 0.015em rgb(133, 119, 0), 0.02em 0.02em 0 rgb(133, 119, 0), 0.025em 0.025em 0 rgb(133, 119, 0), 0.03em 0.03em 0 rgb(133, 119, 0), 0.035em 0.035em 0 rgb(133, 119, 0);
 }
+
+.thomas:active:nth-child(9) {
+
+
+	text-decoration: underline ;
+
+	
+}
+
+.footer {
+	display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .personalbox {
+        padding-left: 10px;
+		padding-right: 10px;
+		z-index: 1;
+		text-align: center;
+		width: auto;
+		height: auto;
+		overflow-wrap: break-word;
+		word-wrap: break-word;
+		hyphens: auto;
+		font-family: Arial, Helvetica, sans-serif;
+		color: #ffffff;
+		font-size: 1.3rem;
+		line-height: 1.35;
+    }
+	.menu {
+		display: none;
+	}
+    .footer {
+        display: inline;
+    }
+
+	.card {
+		height: 450px;
+	}		
+
+	li {
+		transition: transform 0.25s ease-in-out;
+		z-index: 1;
+		display: inline;
+	}
+	
+	
+	li:hover {
+		transform: rotate(0deg);
+	  }
+}
+
+
