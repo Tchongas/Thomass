@@ -1,3 +1,6 @@
+var download = document.getElementById("gfg").getAttribute("href");
+
+
 function openMenu(evt, menuName) {
     // Declare all variables
     var i, tabcontent, tablinks;
@@ -18,3 +21,16 @@ function openMenu(evt, menuName) {
     document.getElementById(menuName).style.display = "flex";
     evt.currentTarget.className += " active";
   }
+
+  function download() {
+    if (confirm ('Fazer download?')) {
+        location.href = downloadvar;
+    }
+
+    return false;
+}
+
+function getHref(clicked_object)
+{
+     downloadvar = clicked_object.getAttribute('href');
+}
