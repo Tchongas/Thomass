@@ -351,10 +351,10 @@
 	 background-image: url(https://production-gameflipusercontent.fingershock.com/us-east-1:eccc2583-06cd-4174-b5b2-cfefd7925be1/156b15d8-8b72-4fd6-a93a-cbf3873a5b61/9599a799-2b4b-40c6-ae43-486749735515);
 }
  .card:nth-child(2):before {
-	 background-image: url();
+	 background-image: url(https://cdn.discordapp.com/attachments/905167487686033462/1105609195618844762/image.png);
 }
  .card:nth-child(3):before {
-	 background-image: url();
+	 background-image: url(https://media.discordapp.net/attachments/905167487686033462/1105691017056899234/image.png?width=673&height=473);
 }
  .card:nth-child(4):before {
 	 background-image: url();
@@ -752,6 +752,7 @@ h2{
 
 .animation {
 	transition: 0.8s;
+	cursor: pointer;
 }
 
 li {
